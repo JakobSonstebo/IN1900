@@ -2,9 +2,7 @@ from math import sin
 
 
 def f(x):
-    """"
-    Half wave rectifier
-    """""
+    """Half wave rectifier."""
     if sin(x) > 0:
         return sin(x)
     else:
@@ -12,9 +10,7 @@ def f(x):
 
 
 def test_f_x():
-    """"
-    Test for half wave rectifier with two values
-    """""
+    """Test for half wave rectifier with two values."""
     x_test = [0, 1]
     expected = [0, sin(1)]
     tol = 1E-14
