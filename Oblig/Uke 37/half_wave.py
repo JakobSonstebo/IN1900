@@ -24,3 +24,8 @@ def test_f_x():
 
 
 test_f_x()
+
+"""
+Terminal >> half_wave.py
+
+"""

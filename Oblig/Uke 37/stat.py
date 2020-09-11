@@ -39,3 +39,8 @@ def test_standard_deviation():
 
 
 test_standard_deviation()
+
+"""
+Terminal >> stat.py
+
+"""

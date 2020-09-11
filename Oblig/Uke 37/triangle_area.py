@@ -24,3 +24,8 @@ def test_triangle_area():
 
 
 test_triangle_area()
+
+"""
+Terminal >> python triangle_area.py
+
+"""
