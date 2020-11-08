@@ -1,7 +1,8 @@
 def read_moon(file):
-    """ Reads file and creates dict with density values for different elements in the moons atmosphere"""
+    """ Reads file and creates dict with density values for different elements in the moons atomosphere"""
     with open(file, 'r') as reader:
-        reader.readline()
+        reader.readline()                                               # Skips first line
+
         elements = {}
         for line in reader:
             line_elements = line.split(";")
@@ -9,7 +10,7 @@ def read_moon(file):
                 element = element.split("-")
 
                 # Key stripped and in upper case
-                key = element[0].strip().upper()
+                key = element[0].strip().upper()                        # Er dette "lov"?
 
                 # Value formatted
                 value = element[1]

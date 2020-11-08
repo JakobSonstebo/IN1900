@@ -1,0 +1,4 @@
+Estimated Composition (night, particles per cubic cm):
+Helium 4 - 40,000 ; Neon 20 - 40,000 ; Hydrogen - 35,000
+Argon 40 - 30,000 ; Neon 22 - 5,000 ; Argon 36 - 2,000
+Methane - 1000 ; Ammonia - 1000 ; Carbon Dioxide - 1000

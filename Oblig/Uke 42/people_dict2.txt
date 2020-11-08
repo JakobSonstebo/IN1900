@@ -1,0 +1,8 @@
+John, 55, Male
+Toney, 23, Male
+Karin, 42, Female
+Cathie, 29, Female
+Rosalba, 12, Female
+Nina, 50, Female
+Burton, 16, Male
+Joey, 90, Male
